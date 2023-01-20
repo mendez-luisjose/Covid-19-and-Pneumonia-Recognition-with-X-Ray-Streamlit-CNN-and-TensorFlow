@@ -5,7 +5,7 @@
 ## This Model was Builded using the Following Technologies:
 > 📌 `Tensorflow`, `Keras API` and `CNN`
 
-<img src="covid.png" width="600"/>
+<img src="covid.png" width="500"/>
 
 
 
