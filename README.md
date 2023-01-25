@@ -7,7 +7,7 @@
 
 <img src="covid.png" width="500"/>
 
-##Resources
+## Resources
 Code Explained at: https://mendezluisjose.hashnode.dev/covid-19-and-pneumonia-model
 
 
