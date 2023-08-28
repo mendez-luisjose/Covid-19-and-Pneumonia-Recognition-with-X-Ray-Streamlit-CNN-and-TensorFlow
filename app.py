@@ -79,17 +79,8 @@ with body :
 
             _, col3, _ = st.columns([0.7,1,0.2])
             col3.header("Results ✅:")
-
-            
-            #col9, col10, col11, col12 = st.columns([0.3, 1, 0.2, 1])
-            #col10.subheader("Original Image")
-            #col12.subheader("Apples Detected")
-
-            #col7, col8 = st.columns([1,1])
-            #col7.image(image, width=350)
-            #col8.image(prediction, width=350)
+                    
             _, col4, _ = st.columns([0.1,1,0.1])
-            #col4.image(xray_img, width=350)
             col4.success(patient_result)
 
 
