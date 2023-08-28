@@ -8,7 +8,7 @@ import tensorflow_hub as hub
 
 set_background("./imgs/background.png")
 
-MODEL_PATH = "./models/normal_covid_pneumonia_model.keras"
+MODEL_PATH = ""
 
 header = st.container()
 body = st.container()
